@@ -1,0 +1,38 @@
+{
+  "commercial-teams": {
+    "data": [
+      {
+        "id": "1a2b3c4d-5e6f-7g8h-9i10-j11k12l13m14",
+        "isActive": true,
+        "name": "Equipe Alpha",
+        "director": "Ana Souza",
+        "code": 101,
+        "createdAt": "2023-01-15T08:30:00Z",
+        "updatedAt": "2023-06-20T14:45:00Z"
+      },
+      {
+        "id": "2b3c4d5e-6f7g-8h9i-10j11-k12l13m14n15",
+        "isActive": false,
+        "name": "Equipe Beta",
+        "director": "Carlos Pereira",
+        "code": 102,
+        "createdAt": "2022-03-10T10:15:00Z",
+        "updatedAt": "2023-05-18T12:20:00Z"
+      },
+      {
+        "id": "3c4d5e6f-7g8h-9i10-j11k-12l13m14n15o",
+        "isActive": true,
+        "name": "Equipe Gamma",
+        "director": "Eduardo Martins",
+        "code": 103,
+        "createdAt": "2023-02-25T09:00:00Z",
+        "updatedAt": "2023-07-05T16:30:00Z"
+      }
+    ],
+    "meta": {
+      "currentPage": 0,
+      "perPage": 3,
+      "total": 3
+    }
+  }
+}
